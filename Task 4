@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>INOVA MEDICAL
+         GROUP</h1>
+<fieldset>
+<table border="2">
+Patients Name (Last, First,MI):_________________________________________
+Patient's Home Phone Number:_______________  Alternate Phone Number(<input type="checkbox">cell or <input type="checkbox">work)<hr>
+E-mail Address:_________________________________________<hr>
+Address:________________________Apt.#________________
+City:___________________________State:__________________Zip:____________________<hr>
+Date of Birth:_______-___________-___________- Age:______ Sex:<input type="checkbox">male<input type="checkbox">Female
+
+
+
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+</fieldset>
+
+
+
+</body>
+</html>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center">Online Marketing</h1>
+    <fieldset>
+       <table>
+    <tr>
+    <ul>
+        <li>Apples</li>
+        <li>custard apples</li>
+        <li>Bananas</li>
+        <li>Grapes</li>
+<li>Watermelon</li>
+<li>Guava</li>
+<li>Orange</li>
+<Li>Kiwi</Li>
+<li>dates</li>
+<li>Pomogranate</li
+</ul>
+    </tr>
+   <br>
+   <label>Fruits</label>
+   <select>
+       <option value="Course">select</option>
+       <option value="Apple">Apple</option>
+       <option value="Mango">Mango</option>
+       <option value="Grapes">Grapes</option>
+       <option value="Watermelon">Watermelon</option>
+   </select><br><br>
+   <label>Quality</label>
+   <input type="radio" name="Male">Good<input type="radio" name="Better">Better<input type="radio" name="other">Worst<br><br>
+   <br><label>Rating</label>
+   <input type="range" id="rating"><br>
+   <br>
+   <label>Location</label>
+   <input type="text" size="200"><br><br>
+   <label>Areas</label>
+   <select>
+    <option value>Areas</option>
+    <option value="Kphb">kphb</option>
+    <optio value>KUkatpally</optio>
+<option value>Dilsukhnagar</option>
+<option value>Panjagutta</option>
+<option value>Tank bund</optionn>
+   </select>
+   <br><br>
+   <label>Timings</label>
+   <input type="time"><br><hr>
+<center><label>submit</label>
+<input type="submit"></center>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+ <h1>JOB REGISTARATION FORM</h1>
+ <fieldset>
+    <table>
+<label for="Name">First name</label>
+<input type="search"><br>
+<label>Middle name</label>
+<input type="text" name="Last name">
+<br>
+<label>Last name</label>
+<input type="text" name="Last name"><br><br>
+<label>Course</label>
+<select>
+    <option value="Course">Course</option>
+    <option value="MCA">MCA</option>
+    <option value="MBA">MBA</option>
+    <option value="MED">MED</option>
+    <option value="MCOM">Mcom</option>
+</select><br><br>
+<label>Gender</label>
+<input type="radio" name="Male">male<input type="radio" name="Female">Female<input type="radio" name="other">Others<br><br>
+<label>Phone</label>
+<input type="tel" value="+91" size="1" >     <input type="tel" name="Phone"><br><br>
+<label>Address</label>
+<input type="address" size="200" rows="5"><br><br>
+<label>E-mail</label>
+<input type="email" name="email" id="email"><br><br>
+<label>Password</label>
+<input type="search" name="Password"><br>
+<br>
+<label>Re-password</label>
+<input type="search" name="search">
+
+
+
+    </table>
+ </fieldset>   
+
+</body>
+</html>

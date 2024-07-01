@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+        <h1> BIO-DATA</h1>
+        <label for="username">Name</label>
+        <input type="search" id="name"><label>Date</label><input type="date"> </pre><br><br>
+        <label>DOB</label>
+        <input type="date"><br><br>
+        <label>Personal Details</label>
+        <input type="serch" size="5000" id="personal details">
+        <label>Email</label>
+        <input type="email" id="emial"><br>
+        <label>ph:no</label>
+        <input type="tel"><br><br>
+        <label>Gender</label>
+<input type="checkbox">Male<input type="checkbox">Female<input type="checkbox">Others<br><br>
+<label>Address</label>
+<input type="text" id="address"><br><b></b>
+<label>Photo</label>
+<input type="image" <img src="../hello/Restaurants/Photos/download (4).jpg" height="00"> <br>
+<label>Upload Resume</label>
+<input type="file"><br>
+<label>Address</label>
+<input type="text" size="600">
+<label>color</label>
+<input type="color"><br><br><hr>
+<label</label>
+<center><button>submit</button>
+
+
+
+
+
+
+
+
+
+
+    
+</body>
+</html>
